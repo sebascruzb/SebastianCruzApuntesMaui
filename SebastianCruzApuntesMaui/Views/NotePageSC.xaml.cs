@@ -1,4 +1,4 @@
-namespace SebastianCruzApuntesMaui;
+namespace SebastianCruzApuntesMaui.Views;
 
 public partial class NotePageSC : ContentPage
 {
